@@ -24,7 +24,7 @@ Fixed issues:
 + SpecFlow Reporting doesn't work with Firefox (Issue 31)
 + Binding methods are executed using the culture of the feature file.
 + Several parsing issues are solved now (Issue 1, 8, 9, 37)
-
+- Bug with parameters encoding
 1.2.0 - 2009/11/25
 
 New features:
